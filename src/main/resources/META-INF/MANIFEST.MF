@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Main-Class: edu.security.saesbackend.SAesBackEndApplication
+Class-Path: logback-classic-1.4.11.jar jul-to-slf4j-2.0.9.jar spring-cor
+ e-6.0.13.jar spring-boot-starter-tomcat-3.1.5.jar spring-boot-starter-w
+ eb-3.1.5.jar jackson-core-2.15.3.jar jackson-datatype-jsr310-2.15.3.jar
+  spring-boot-starter-jdbc-3.1.5.jar tomcat-embed-websocket-10.1.15.jar 
+ spring-boot-starter-logging-3.1.5.jar log4j-to-slf4j-2.20.0.jar mybatis
+ -spring-boot-autoconfigure-3.0.2.jar spring-expression-6.0.13.jar sprin
+ g-beans-6.0.13.jar snakeyaml-1.33.jar spring-boot-starter-json-3.1.5.ja
+ r spring-context-6.0.13.jar spring-jcl-6.0.13.jar log4j-api-2.20.0.jar 
+ spring-tx-6.0.13.jar slf4j-api-2.0.9.jar tomcat-embed-core-10.1.15.jar 
+ lombok-1.18.30.jar jackson-datatype-jdk8-2.15.3.jar tomcat-embed-el-10.
+ 1.15.jar jackson-databind-2.15.3.jar spring-boot-3.1.5.jar spring-jdbc-
+ 6.0.13.jar micrometer-observation-1.11.5.jar spring-boot-starter-3.1.5.
+ jar mybatis-spring-3.0.2.jar jakarta.annotation-api-2.1.1.jar HikariCP-
+ 5.0.1.jar spring-web-6.0.13.jar jackson-annotations-2.15.3.jar spring-a
+ op-6.0.13.jar logback-core-1.4.11.jar mybatis-spring-boot-starter-3.0.2
+ .jar micrometer-commons-1.11.5.jar mysql-connector-j-8.0.33.jar jackson
+ -module-parameter-names-2.15.3.jar spring-boot-autoconfigure-3.1.5.jar 
+ mybatis-3.5.13.jar spring-webmvc-6.0.13.jar
+
