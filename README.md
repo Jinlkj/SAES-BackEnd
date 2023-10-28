@@ -22,7 +22,7 @@
     <a href="https://github.com/Jinlkj/SAES-FrontEnd"><strong>去看看项目前端 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">观看演示</a>
+    <a href="https://jinlkj.github.io/SAES-FrontEnd/">观看演示</a>
     ·
     <a href="https://github.com/Jinlkj/SAES-BackEnd/issues">报告bug</a>
     ·
