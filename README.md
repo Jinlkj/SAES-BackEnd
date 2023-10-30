@@ -73,6 +73,13 @@ Simplified AES (SAES) 是一种教学用的加密算法，它是 AES 的简化�
 
 [![Spring][Springboot]][Springboot-url]  [![Vue][Vue.js]][Vue-url]
 
+### 项目演示
+1.长文本加密解密
+![show](images/show1.gif)
+2.16位明文加密解密
+![show](images/show2.gif)
+3.双重加密，三重加密
+![show](images/show3.gif)
 ### 算法详解
 ![](images/pdf1.png)
 ![](images/pdf2.png)
