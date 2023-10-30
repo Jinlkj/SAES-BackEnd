@@ -80,6 +80,8 @@ Simplified AES (SAES) 是一种教学用的加密算法，它是 AES 的简化�
 ![show](images/show2.gif)
 3.双重加密，三重加密
 ![show](images/show3.gif)
+4.明密文对解密
+![show](images/show4.gif)
 ### 算法详解
 ![](images/pdf1.png)
 ![](images/pdf2.png)
